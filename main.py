@@ -4,4 +4,4 @@ miles=float(input())
 print("Enter gallons")
 gallons=float(input()) 
 
-print("Miles per gallon:", miles/gallons)
+print(miles/gallons)
